@@ -1,16 +1,28 @@
-# backend_project
+# Karyana Store — Flutter E-Commerce App
 
-A new Flutter project.
+A full-featured grocery shopping app built with 
+Flutter and Firebase. Product browsing, cart 
+management, order processing, and real-time 
+inventory tracking — cross-platform on iOS 
+and Android.
+
+## Screenshots
+[your screenshots here]
+
+## Features
+- Product catalog with category filtering
+- Cart management with real-time updates
+- Order processing and tracking
+- Firebase authentication
+- Real-time inventory sync
+- Responsive UI across all screen sizes
+
+## Tech Stack
+- Flutter & Dart
+- Firebase Firestore
+- Firebase Authentication
+- REST APIs
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repo and run flutter pub get.
+Requires Firebase project setup.
